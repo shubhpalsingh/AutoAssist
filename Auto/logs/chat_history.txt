@@ -1,0 +1,138 @@
+[2025-11-17 16:05:50] User: hi my name is shubh
+[2025-11-17 16:05:50] CarBot: Hey there! 👋 I CarBot — your smart car assistant!
+
+[2025-11-17 16:06:05] User: can u tell me low service cost cars
+[2025-11-17 16:06:05] CarBot: Maruti and Hyundai cars have low service cost. Toyota is super reliable long-term.
+
+[2025-11-17 16:06:14] User: what about ev cars
+[2025-11-17 16:06:14] CarBot: Fuel types include Petrol (Swift), Diesel (Creta Diesel), CNG (WagonR), LPG, Hybrid (Hyundai Ioniq), and Electric (Tata Nexon EV).
+
+[2025-11-17 16:06:21] User: ev
+[2025-11-17 16:06:21] CarBot: Fuel types include Petrol (Swift), Diesel (Creta Diesel), CNG (WagonR), LPG, Hybrid (Hyundai Ioniq), and Electric (Tata Nexon EV).
+
+[2025-11-17 16:06:37] User: exit
+[2025-11-17 16:06:37] CarBot: Glad I could help! 🚗💨 Drive safe and stay curious!
+
+[2025-11-17 19:33:30] User: hello
+[2025-11-17 19:33:30] CarBot: Hey there! 👋 I CarBot — your smart car assistant!
+
+[2025-11-17 19:33:36] User: tell me about EV cars
+[2025-11-17 19:33:36] CarBot: Fuel types include Petrol (Swift), Diesel (Creta Diesel), CNG (WagonR), LPG, Hybrid (Hyundai Ioniq), and Electric (Tata Nexon EV).
+
+[2025-11-17 19:35:45] User: hello
+[2025-11-17 19:35:45] CarBot: Hey there! 👋 I CarBot — your smart car assistant!
+
+[2025-11-17 19:35:49] User: tell me about EV cars
+[2025-11-17 19:35:49] CarBot: Fuel types include Petrol (Swift), Diesel (Creta Diesel), CNG (WagonR), LPG, Hybrid (Hyundai Ioniq), and Electric (Tata Nexon EV).
+
+[2025-11-17 19:36:48] User: tell me about EV cars
+[2025-11-17 19:36:48] CarBot: Top EVs in India: Tata Nexon EV, MG ZS EV, Hyundai Kona Electric.
+
+[2025-11-17 19:36:59] User: best cars under 10 lakh
+[2025-11-17 19:36:59] CarBot: Value for money cars under ₹10 lakh: Tata Punch, Hyundai Exter, Maruti Baleno, Kia Sonet.
+
+[2025-11-17 19:37:06] User: best cars under 20 lakh
+[2025-11-17 19:37:06] CarBot: Top premium cars: Hyundai Creta, Kia Seltos, Skoda Kushaq, Volkswagen Taigun.
+
+[2025-11-17 19:37:11] User: best car in 5 lakh
+[2025-11-17 19:37:11] CarBot: Best budget cars: Maruti Alto K10, Renault Kwid, and Maruti S-Presso.
+
+[2025-11-17 19:37:17] User: lowest servicing cost cars
+[2025-11-17 19:37:17] CarBot: Hmm, I’m not sure about that yet. Try asking me about cars, brands, features, or budget suggestions.
+
+[2025-11-17 19:37:23] User: low service cost casting
+[2025-11-17 19:37:23] CarBot: Maruti and Hyundai cars have low service cost. Toyota is super reliable long-term.
+
+[2025-11-17 19:37:42] User: hello
+[2025-11-17 19:37:42] CarBot: Hey there! 👋 I CarBot — your smart car assistant!
+
+[2025-11-17 19:37:46] User: best cars under 10 lakh
+[2025-11-17 19:37:46] CarBot: Value for money cars under ₹10 lakh: Tata Punch, Hyundai Exter, Maruti Baleno, Kia Sonet.
+
+[2025-11-17 19:37:54] User: best EV cars
+[2025-11-17 19:37:54] CarBot: Top EVs in India: Tata Nexon EV, MG ZS EV, Hyundai Kona Electric.
+
+[2025-11-17 19:38:03] User: best car in 5 lakh
+[2025-11-17 19:38:03] CarBot: Best budget cars: Maruti Alto K10, Renault Kwid, and Maruti S-Presso.
+
+[2025-11-17 19:38:12] User: best cars under 20 lakh
+[2025-11-17 19:38:12] CarBot: Top premium cars: Hyundai Creta, Kia Seltos, Skoda Kushaq, Volkswagen Taigun.
+
+[2025-11-17 19:38:22] User: low service cost
+[2025-11-17 19:38:22] CarBot: Maruti and Hyundai cars have low service cost. Toyota is super reliable long-term.
+
+[2025-11-22 02:58:36] User: hello bot can you help me
+[2025-11-22 02:58:36] CarBot: Hey there! 👋 I Auto-Assist — your smart car assistant!
+
+[2025-11-22 02:59:10] User: can you provide me with names of most safe cars
+[2025-11-22 02:59:10] CarBot: Hey there! 👋 I Auto-Assist — your smart car assistant!
+
+[2025-11-22 02:59:23] User: asdf
+[2025-11-22 02:59:23] CarBot: Hmm, I’m not sure about that yet. Try asking me about cars, brands, features, or budget suggestions.
+
+[2025-11-22 02:59:24] User: asd
+[2025-11-22 02:59:24] CarBot: Hmm, I’m not sure about that yet. Try asking me about cars, brands, features, or budget suggestions.
+
+[2025-11-22 02:59:25] User: da
+[2025-11-22 02:59:25] CarBot: Hmm, I’m not sure about that yet. Try asking me about cars, brands, features, or budget suggestions.
+
+[2025-11-22 02:59:26] User: sda
+[2025-11-22 02:59:26] CarBot: Hmm, I’m not sure about that yet. Try asking me about cars, brands, features, or budget suggestions.
+
+[2025-11-22 02:59:28] User: low
+[2025-11-22 02:59:28] CarBot: Hmm, I’m not sure about that yet. Try asking me about cars, brands, features, or budget suggestions.
+
+[2025-11-22 02:59:31] User: service
+[2025-11-22 02:59:31] CarBot: Maruti and Hyundai cars have low service cost. Toyota is super reliable long-term.
+
+[2025-11-22 02:59:45] User: hi car bot
+[2025-11-22 02:59:45] CarBot: Hey there! 👋 I Auto-Assist — your smart car assistant!
+
+[2025-11-22 03:00:00] User: can you give low service cost cars
+[2025-11-22 03:00:00] CarBot: Hey there! 👋 I Auto-Assist — your smart car assistant!
+
+[2025-11-22 03:00:31] User: hi
+[2025-11-22 03:00:31] CarBot: Hey there! 👋 I Auto-Assist — your smart car assistant!
+
+[2025-11-22 03:00:45] User: low service cost car can you give me there names
+[2025-11-22 03:00:45] CarBot: Hey there! 👋 I Auto-Assist — your smart car assistant!
+
+[2025-11-22 03:01:02] User: why are you saying only hi 10 lakhs
+[2025-11-22 03:01:02] CarBot: Hey there! 👋 I Auto-Assist — your smart car assistant!
+
+[2025-11-22 03:01:17] User: hi
+[2025-11-22 03:01:17] CarBot: Hey there! 👋 I Auto-Assist — your smart car assistant!
+
+[2025-11-22 03:01:23] User: give midrange cars
+[2025-11-22 03:01:23] CarBot: Value for money cars under ₹10 lakh: Tata Punch, Hyundai Exter, Maruti Baleno, Kia Sonet.
+
+[2025-11-22 03:01:36] User: tell me most safe cars
+[2025-11-22 03:01:36] CarBot: Safest cars in India: Tata Nexon, Tata Punch, Mahindra XUV300 (5⭐ GNCAP).
+
+[2025-11-22 03:01:57] User: which gear or gearless i should choose
+[2025-11-22 03:01:57] CarBot: Hey there! 👋 I Auto-Assist — your smart car assistant!
+
+[2025-11-22 03:06:02] User: give midrange cars
+[2025-11-22 03:06:02] CarBot: Value for money cars under ₹10 lakh: Tata Punch, Hyundai Exter, Maruti Baleno, Kia Sonet.
+
+[2025-11-22 03:06:06] User: tell me most safe cars
+[2025-11-22 03:06:06] CarBot: Safest cars in India: Tata Nexon, Tata Punch, Mahindra XUV300 (5⭐ GNCAP).
+
+[2025-11-22 03:06:33] User: help me choose between gear or gearless
+[2025-11-22 03:06:33] CarBot: City driving = go Automatic (i20 AMT, Nexon AMT). Fun control = Manual (Swift, Bolero).
+
+[2025-11-22 03:06:38] User: thanks
+[2025-11-22 03:06:38] CarBot: Glad I could help! 🚗💨 Drive safe and stay curious!
+
+[2025-11-22 03:07:10] User: thanks for helping
+[2025-11-22 03:07:10] CarBot: Glad I could help! 🚗💨 Drive safe and stay curious!
+
+[2025-11-22 03:11:14] User: give midrange cars
+[2025-11-22 03:11:14] CarBot: Value for money cars under ₹10 lakh: Tata Punch, Hyundai Exter, Maruti Baleno, Kia Sonet.
+
+[2025-11-22 03:11:22] User: tell me most safe cars
+[2025-11-22 03:11:22] CarBot: Safest cars in India: Tata Nexon, Tata Punch, Mahindra XUV300 (5⭐ GNCAP).
+
+[2025-11-22 03:11:32] User: help me choose between gear or gearless
+[2025-11-22 03:11:32] CarBot: City driving = go Automatic (i20 AMT, Nexon AMT). Fun control = Manual (Swift, Bolero).
+

@@ -1,0 +1,161 @@
+{
+    "greeting": {
+        "patterns": ["hi", "hello", "hey", "yo", "namaste", "good morning", "good evening", "what's up"],
+        "responses": [
+            "Hey there! 👋 I Auto-Assist — your smart car assistant!",
+            "Hello! 🚗 Ready to explore cars like Tata Nexon, Hyundai Creta, and BMW X1?",
+            "Hi! Ask me anything about cars — mileage, features, EVs, brands, you name it!"
+        ]
+    },
+    "car_types": {
+        "patterns": ["types of cars", "categories of cars", "what kinds of cars", "different cars", "car body styles", "types", "categories","kinds"],
+        "responses": [
+            "Car types include Hatchbacks (Maruti Swift), Sedans (Honda City), SUVs (Hyundai Creta), MUVs (Maruti Ertiga), Coupes (Ford Mustang), and Pickup Trucks (Isuzu V-Cross).",
+            "From compact hatchbacks to rugged SUVs and stylish coupes, there’s a car for every lifestyle.",
+            "Popular categories: Hatchbacks, Sedans, Compact SUVs, MUVs, Electric Cars, and Luxury SUVs."
+        ]
+    },
+    "fuel_types": {
+        "patterns": ["fuel types", "petrol or diesel", "cng", "electric car", "hybrid car","fuel options"],
+        "responses": [
+            "Fuel types include Petrol (Swift), Diesel (Creta Diesel), CNG (WagonR), LPG, Hybrid (Hyundai Ioniq), and Electric (Tata Nexon EV).",
+            "Petrol = smooth drive, Diesel = powerful torque, CNG = low running cost, EV = future tech. What's your pick?",
+            "Hybrids like Toyota Hyryder and Honda City e:HEV are great if you want mileage + power."
+        ]
+    },
+    "car_brands": {
+        "patterns": ["popular car brands", "top brands", "best car companies", "brands", "car makers", "famous car companies","popular","famous","companies"],
+        "responses": [
+            "Popular Indian brands: Maruti Suzuki, Tata Motors, Mahindra, Hyundai, and Kia.",
+            "Global giants: Toyota, BMW, Mercedes-Benz, Tesla, and Volkswagen.",
+            "For reliability go Toyota, for safety go Volvo, for luxury go Mercedes or BMW."
+        ]
+    },
+    "best_city_car": {
+        "patterns": ["best car for city", "easy to drive car", "small car for traffic", "city driving", "car for daily use", "city"],
+        "responses": [
+            "For city driving, go for compact cars like Maruti Swift, Tata Tiago, or Hyundai Grand i10 Nios.",
+            "If you want a stylish city car, try Tata Punch or Citroen C3.",
+            "EV options for city: Tata Tiago EV, MG Comet EV — perfect for traffic!"
+        ]
+    },
+    "best_highway_car": {
+        "patterns": ["best car for highway", "car for long travel", "stable car at high speed", "road trip car", "long drive car", "speed","highway"],
+        "responses": [
+            "For highways, Honda City, Skoda Slavia, and Hyundai Verna are smooth and stable.",
+            "SUV lovers? Try Mahindra XUV700, Tata Harrier, or MG Hector for long drives.",
+            "If you love speed + safety: Volkswagen Virtus and Skoda Kushaq are great picks."
+        ]
+    },
+    "mileage": {
+        "patterns": ["best mileage", "fuel efficiency", "car with good average", "mileage", "km per litre", "good average car"],
+        "responses": [
+            "Best mileage cars: Maruti Celerio (27 km/l), Honda Amaze Diesel, and Toyota Glanza.",
+            "Best CNG mileage: Maruti WagonR CNG and Hyundai Aura CNG.",
+            "EVs like Tata Nexon EV and MG ZS EV offer low running cost – just ₹1–2/km!"
+        ]
+    },
+    "electric": {
+        "patterns": ["electric car", "ev", "eco friendly car", "zero emission car", "battery car", "electric"],
+        "responses": [
+            "Top EVs in India: Tata Nexon EV, MG ZS EV, Hyundai Kona Electric.",
+            "Budget EV? Try Tata Tiago EV or MG Comet EV.",
+            "If you want premium EV power, check out BYD Atto 3 or Kia EV6."
+        ]
+    },
+    "petrol": {
+    "patterns": ["petrol car", "petrol cars", "petrol engine", "petrol vehicle", "petrol option"],
+    "responses": [
+        "Popular petrol cars include Maruti Swift, Hyundai i20, Honda Amaze, and Tata Altroz — smooth, efficient, and easy to maintain.",
+        "petrol cars like the Maruti Baleno, Hyundai i20, and Honda City offer quiet performance and lower maintenance.",
+        "If you want a refined petrol experience, check out Honda City, Skoda Slavia, or Hyundai Verna — they’re known for smooth performance."
+    ]
+}
+,"diesel": {
+    "patterns": ["diesel car", "diesel cars", "diesel engine", "diesel vehicle", "diesel option"],
+    "responses": [
+        "Top diesel picks: Tata Nexon Diesel, Mahindra XUV300, Hyundai Creta, and Kia Seltos — great for torque and long drives.",
+        "diesel options like Kia Seltos, Tata Harrier, and Scorpio-N are built to handle highway cruising and tough terrain with ease.",
+        "If you drive long distances often, diesel SUVs like Tata Harrier or Mahindra Scorpio-N are built for it."
+    ]
+}
+,
+    "affordable_cars": {
+        "patterns": ["cars under 5 lakh", "budget car", "cheap car options", "entry level car", "low price car", "budget", "5 lakh"],
+        "responses": [
+            "Best budget cars: Maruti Alto K10, Renault Kwid, and Maruti S-Presso.",
+            "Affordable + good mileage: Maruti Eeco and Bajaj Qute (quadricycle).",
+            "Renault Kwid, Maruti Alto K10, and Datsun Redi-GO — basic but reliable options for first-time buyers under ₹5 lakh."
+        ]
+    },
+    "midrange_cars": {
+        "patterns": ["cars under 10 lakh", "midrange car", "value for money car", "best car under 10 lakh", "midrange", "10 lakh"],
+        "responses": [
+            "Value for money cars under ₹10 lakh: Tata Punch, Hyundai Exter, Maruti Baleno, Kia Sonet.",
+            "Feature-loaded options: Nissan Magnite, Renault Kiger, Tata Altroz.",
+            "Best mileage + safety combo? Tata Tiago, Tata Punch and Hyundai i20."
+        ]
+    },
+    "premium_cars": {
+        "patterns": ["cars under 20 lakh", "premium car", "luxury feel car", "best car under 20 lakh", "premium", "20 lakh"],
+        "responses": [
+            "Top premium cars: Hyundai Creta, Kia Seltos, Skoda Kushaq, Volkswagen Taigun.",
+            "Best family SUV under ₹20 lakh: MG Hector, Tata Safari, Mahindra Scorpio N.",
+            "Luxury sedan vibes? Try Hyundai Verna or Honda City."
+        ]
+    },
+    "safety": {
+        "patterns": ["safety rating", "safe cars", "5 star cars", "rating", "most safe car"],
+        "responses": [
+            "Safest cars in India: Tata Nexon, Tata Punch, Mahindra XUV300 (5⭐ GNCAP).",
+            "Volkswagen Virtus and Skoda Slavia also score high on safety.",
+            "cars like the Tata Nexon, Volkswagen Virtus, and Mahindra XUV300 offer excellent safety ratings and equipment."
+        ]
+    },
+   "features": {
+        "patterns": ["features of cars", "what features", "car features", "features", "modern car features"],
+        "responses": [
+            "Modern cars like the Hyundai i20, Kia Sonet, and Tata Altroz offer sunroof, reverse camera, ABS, push-start, cruise control, and even wireless charging in some variants.",
+            "Cars like Kia Seltos and MG Astor offer advanced features like AI assistant and ADAS.",
+           "Luxury features? Try ventilated seats, 360° camera, and connected car apps — you’ll find these in models like the Hyundai Creta SX(O), Kia Seltos GTX+, and MG Astor Savvy."
+        ]
+    },
+    "recommendation": {
+        "patterns": ["what should i buy", "which car should i buy", "suggest me a car", "recommend a car", "help me choose a car", "best car for me", "car suggestion", "recommend"],
+        "responses": [
+            "Tell me your budget and usage — city, highway, or family trips? I'll suggest the best car.",
+            "Looking for mileage, safety, or features? Give me your preference."
+        ]
+    },
+    "automatic_vs_manual": {
+        "patterns": ["automatic or manual", "which is better manual or automatic", "auto vs manual", "gear options","gear or gearless","gear vs gearless","automatic vs manual"],
+        "responses": [
+            "City driving = go Automatic (i20 AMT, Nexon AMT). Fun control = Manual (Swift, Bolero).",
+            "Automatic cars are easy in traffic, manuals give better control and mileage.",
+            "Best budget automatics: Tata Punch AMT, Baleno AMT, and Venue DCT."
+        ]
+    },
+    "service": {
+        "patterns": ["service cost", "maintenance", "how often service", "service", "car servicing"],
+        "responses": [
+            "Maruti and Hyundai cars have low service cost. Toyota is super reliable long-term.",
+           "Service every 10,000 km or once a year is ideal for most cars like Maruti Baleno, Honda Amaze, or Tata Punch, regular maintenance keeps performance and resale strong",
+            "German cars like Volkswagen and Skoda are fun to drive but maintenance is higher."
+        ]
+    },
+    "goodbye": {
+        "patterns": ["bye", "goodbye", "thanks", "exit", "quit", "thank", "see you", "catch you later"],
+        "responses": [
+            "Glad I could help! 🚗💨 Drive safe and stay curious!",
+            "Thanks for chatting! Come back anytime for car advice. 👋",
+            "See you soon! May your journey be smooth and fuel-efficient."
+        ]
+    },
+    "fallback": {
+        "responses": [
+            "Hmm, I’m not sure about that yet. Try asking me about cars, brands, features, or budget suggestions.",
+            "I didn’t quite get that. Maybe ask about car types, EVs, mileage, or safety?",
+            "Still learning that one! Want to know about SUVs, sedans, or car maintenance?"
+        ]
+    }
+}
