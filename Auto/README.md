@@ -12,14 +12,23 @@ Features:
 Project Structure:
 AutoAssist/
 │
+
 ├ app.py # Flask backend server
+
 ├ car_bot_data.json # Chat training data/rules
+
 ├ logs/
+
 │ └ chat_history.txt # Conversation history, created automatically
+
 ├ modules/
+
 │ └ logger.py # Logger for chat history (used by Flask)
+
 ├ templates/
+
 │ └ index.html # Front-end UI (HTML, CSS, JS)
+
 └ README.txt # Project documentation
 
 Setup & Installation:
