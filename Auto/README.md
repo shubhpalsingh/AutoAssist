@@ -12,15 +12,15 @@ Features:
 Project Structure:
 AutoAssist/
 │
-├── app.py # Flask backend server
-├── car_bot_data.json # Chat training data/rules
-├── logs/
-│ └── chat_history.txt # Conversation history, created automatically
-├── modules/
-│ └── logger.py # Logger for chat history (used by Flask)
-├── templates/
-│ └── index.html # Front-end UI (HTML, CSS, JS)
-└── README.txt # Project documentation
+├ app.py # Flask backend server
+├ car_bot_data.json # Chat training data/rules
+├ logs/
+│ └ chat_history.txt # Conversation history, created automatically
+├ modules/
+│ └ logger.py # Logger for chat history (used by Flask)
+├ templates/
+│ └ index.html # Front-end UI (HTML, CSS, JS)
+└ README.txt # Project documentation
 
 Setup & Installation:
 -Clone or download this repository.
@@ -65,4 +65,5 @@ Credits & License:
 -Built with Flask, HTML, CSS, and JavaScript.
 -Inspired by user needs for easy car selection chatbots.
 -You may modify, deploy, and share; please credit if redistributing.
+
 -Enjoy car chatting with AutoAssist!
