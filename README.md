@@ -3,14 +3,23 @@ AutoAssist: Smart Car Suggestion Chatbot (Flask Web App) AutoAssist is an intera
 Features: -Conversational chat about car models, suggestions, and car-related topics -Voice input (microphone support via browser) -Light/Dark theme toggle for comfortable chatting -Full-screen, responsive UI for desktop and mobile -Chat logs saved in logs/chat_history.txt -Easy customization using car_bot_data.json
 
 Project Structure: AutoAssist/
+
 ├ app.py # Flask backend server
+
 ├ car_bot_data.json # Chat training data/rules
+
 ├ logs/
+
 │ └ chat_history.txt # Conversation history, created automatically
+
 ├ modules/
+
 │ └ logger.py # Logger for chat history (used by Flask)
+
 ├ templates/
+
 │ └ index.html # Front-end UI (HTML, CSS, JS)
+
 └ README.txt # Project documentation
 
 Setup & Installation: -Clone or download this repository. -Install Python dependencies: pip install flask -(Optional) Check/Install other packages. Most features use basic Python and browser APIs. Voice input works best in Google Chrome. -Running the Application: -Ensure your structure matches the “Project Structure” above. -Start the Flask server: python app.py
