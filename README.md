@@ -17,6 +17,7 @@ Project Structure: AutoAssist/
 │ └ logger.py # Logger for chat history (used by Flask)
 
 ├ templates/
+
 │ └ index.html # Front-end UI (HTML, CSS, JS)
 
 └ README.txt # Project documentation
